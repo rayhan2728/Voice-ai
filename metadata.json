@@ -1,0 +1,7 @@
+{
+  "name": "Manoshi - The Human Voice",
+  "description": "An emotionally intelligent, human-like conversational persona of a Bangladeshi woman, capable of storytelling and deep conversation using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
